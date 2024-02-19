@@ -1,0 +1,21 @@
+*{
+    font-family: Oswald;
+}
+#main{
+    width:30%;
+    margin:auto;
+    font-weight: bold;
+}
+
+form{
+    width:50%;
+    margin:auto;
+    font-weight: bold;
+}
+
+#main{
+    border-style: dashed;
+}
+.inputL{
+    width: 100%;
+}
